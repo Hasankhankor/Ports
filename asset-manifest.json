@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ports/static/css/main.a9826284.css",
+    "main.js": "/Ports/static/js/main.a9b50e24.js",
+    "static/js/787.6bfed4d0.chunk.js": "/Ports/static/js/787.6bfed4d0.chunk.js",
+    "static/media/porfolio 4.png": "/Ports/static/media/porfolio 4.41d0dddda6cddfd67eb9.png",
+    "static/media/me.png": "/Ports/static/media/me.602c0c18c988780cf9b4.png",
+    "static/media/XW.PNG": "/Ports/static/media/XW.e98b2803c8563d1f708a.PNG",
+    "static/media/simple.png": "/Ports/static/media/simple.69d10867634c08c0c52a.png",
+    "static/media/porfolio 5.png": "/Ports/static/media/porfolio 5.8430ca82206bbc2a5474.png",
+    "static/media/porfolio 6.png": "/Ports/static/media/porfolio 6.ba9ff91948c67eb13362.png",
+    "static/media/portfolio 1.png": "/Ports/static/media/portfolio 1.30d083fe1207168ac3f4.png",
+    "static/media/me_about.jpeg": "/Ports/static/media/me_about.c79e8a43dd13a40e1851.jpeg",
+    "static/media/testimonials 1.jpeg": "/Ports/static/media/testimonials 1.cb339fd4b927df4376bb.jpeg",
+    "static/media/testimonials 3.jpeg": "/Ports/static/media/testimonials 3.22d5db142a560263632f.jpeg",
+    "static/media/testimponials 2.jpeg": "/Ports/static/media/testimponials 2.af7eaa749d9282d3ddd2.jpeg",
+    "index.html": "/Ports/index.html",
+    "main.a9826284.css.map": "/Ports/static/css/main.a9826284.css.map",
+    "main.a9b50e24.js.map": "/Ports/static/js/main.a9b50e24.js.map",
+    "787.6bfed4d0.chunk.js.map": "/Ports/static/js/787.6bfed4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9826284.css",
+    "static/js/main.a9b50e24.js"
+  ]
+}
